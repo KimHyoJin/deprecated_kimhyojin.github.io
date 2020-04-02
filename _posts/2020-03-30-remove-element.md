@@ -1,5 +1,5 @@
 ---
-title: "[Algorithms] remove element"
+title: "Netty[1]"
 layout: post
 date: 2020-03-30 20:46
 image: 
@@ -8,23 +8,17 @@ tag: algorithm
 category: blog
 author: 효징
 hidden: false
-description: LeetCode Algorithm 문제 풀기
+description: Netty
 ---
 
-https://leetcode.com/problems/remove-element/
-
-~~~java
-class Solution {
-    public int removeElement(int[] nums, int val) {
-        int index = 0;
-        for(int i = 0; i< nums.length; i++){
-            if(nums[i] != val){
-                nums[index] = nums[i];
-                index++;
-            }
-        }
-        return index;
-    }
-}
+~~~
+Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 ~~~
 
+Netty 공식홈페이지에 가보면 다음과 같이 적혀 있다. 
+
+
+
+#### Reference
+
+https://netty.io/
