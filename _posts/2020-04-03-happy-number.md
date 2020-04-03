@@ -11,8 +11,6 @@ hidden: false
 description: LeetCode Algorithm 문제 풀기
 ---
 
-
-
 https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/
 
 ~~~java
