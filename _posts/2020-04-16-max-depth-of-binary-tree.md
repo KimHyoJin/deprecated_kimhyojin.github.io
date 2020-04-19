@@ -1,7 +1,7 @@
 ---
 title: "[Algorithms] Maximum depth of binary tree"
 layout: post
-date: 2020-04-15 23:33
+date: 2020-04-16 23:33
 image: 
 headerImage: false
 tag: algorithm
